@@ -1,0 +1,234 @@
+*{
+   padding:0;
+   margin: 0;
+}
+
+
+body{
+   margin:0;
+   padding:0;
+}
+.header{
+   width:1000px;
+   margin:5px auto 0 auto;
+   height: 150px;
+   background: #f0ffb3;
+   padding: 0;
+}
+
+.header p{
+   font-family: Myriad Pro;
+   font-weight: blod;
+   color: #fc9c08;
+   font-size: 24pt;
+   padding-top: 45pt;
+   padding-left: 25px;
+}
+.menu{
+
+   width: 1000px;
+   height: 50px;
+   background: #bcd652;
+   margin: 0 auto;
+}
+.menu ul{
+   list-style: none;
+   
+}
+
+.menu ul li{
+
+   float: left;
+   padding: 15.5px 20px;
+   display: block;
+
+}
+.menu ul li a{
+   text-decoration: none;
+   color: #fff;
+   font-family: Myriad Pro;
+   font-size: 12pt;
+   display: block;
+}
+.menu ul li:hover{
+   background: #f0ffb3;
+
+}
+.icon{
+   position: absolute;
+   z-index: 999999999999;
+   width: 150px;
+   height: auto;
+   margin-left: 800px;
+   margin-top: 30px;
+   padding: 0;
+   
+
+}
+.content{
+   text-decoration: none;
+   color: rgb(11, 90, 11);
+   width: 720px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 12pt;
+   background: #fcffe2;
+   
+}
+.content p{
+   padding: 15px 35px 10px 20px;
+}
+.sidebar{
+   float: right;
+   width: 250px;
+   
+
+}
+.sidebar p{
+   padding: 15px 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 11pt;
+}
+.all{
+   width: 1000px;
+   margin: 0 auto;
+   background: #fcffe2;
+
+}
+.detalii{
+   font-size: 10pt;
+   color: goldenrod;
+   padding-left: 10px;
+   margin-top: 5px;
+
+}
+.detalii:hover{
+   color: red;
+   text-decoration: none;
+}
+.title:hover{
+   color: red;
+   text-decoration: none;
+}
+.cele{
+   text-decoration: none;
+   color: goldenrod;
+   text-align: center;
+   font-weight: bold;
+   font-family: Myriad Pro;
+}
+.lista{
+   padding-left: 20px;
+   text-decoration: none;
+   list-style: none;
+
+}
+.lista li{
+   padding-bottom: 5px;
+}
+.lista a{
+   color: rgb(30, 88, 30);
+   text-decoration: none;
+   
+}
+.lista a:hover{
+   text-decoration: underline;
+}
+.footer{
+   width: 1000px;
+   height: 80px;
+   background: #bcd652;
+   margin: 0 auto;
+   margin-bottom: 10px;
+   clear: both;
+   
+}
+
+.footer p{
+   color:#fff;
+   font-family: Myriad Pro;
+   font-size: 12pt;
+   padding-left: 25px;
+   padding-top: 30px;
+}
+ .active{
+   background: #82cf5f;
+
+}
+
+.title_video{
+   font-family: Myriad Pro;
+   font-size: 15pt;
+   color: #0b1a41;
+   font-weight: bolder;
+
+
+}
+
+.description{
+
+   float: left;
+   width: 320px;
+}
+
+.about{
+   font-family: Myriad Pro;
+   font-size: 15pt;
+   color: #0b1a41;
+   font-weight: bolder;
+}
+
+.form{
+   list-style: none;
+}
+
+.form li input {
+   width: 400px;
+   height: 50px;
+   margin-bottom: 10px;
+   margin-left: 15px;
+
+
+}
+.form li textarea{
+   margin-left: 15px;
+}
+
+.send{
+
+    width: 55px;
+    height: 30px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-family: Verdana;
+    font-size: 8pt;
+
+}
+.contact{
+
+   color: green;
+   font-family: serif;
+   padding-right: 10px;
+}
+
+.tablouri{
+   font-family: serif;
+   font-size: 12pt;
+   color: #2c6e06;
+   font-weight: bold;
+   
+
+
+}
+
+.intrebare{
+   position: absolute;
+   width: 150px;
+   height: auto;
+   margin-left: 800px;
+   margin-top: 30px;
+   padding: 0;
+}
+
+
+ 
